@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/nolink/node-stratum-pool",
+    "homepage": "http://gitdev.otccenter.co:81/DamoProject/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/nolink/node-stratum-pool/issues"
+        "url": "http://gitdev.otccenter.co:81/DamoProject/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -29,13 +29,13 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/nolink/node-stratum-pool.git"
+        "url": "http://gitdev.otccenter.co:81/DamoProject/node-stratum-pool.git"
     },
     "dependencies": {
         "async": "^2.5.0",
         "base58-native": "^0.1.4",
         "bignum": "^0.12.5",
-        "multi-hashing": "git://github.com/nolink/node-multi-hashing.git#carrot"
+        "multi-hashing": "git@gitdev.otccenter.co:DamoProject/node-multi-hashing.git#damo"
     },
     "engines": {
         "node": ">=8.1.4"
