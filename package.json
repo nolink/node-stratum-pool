@@ -35,7 +35,7 @@
         "async": "^2.5.0",
         "base58-native": "^0.1.4",
         "bignum": "^0.12.5",
-        "multi-hashing": "git://gitdev.otccenter.co:DamoProject/node-multi-hashing.git#damo"
+        "multi-hashing": "git://github.com/nolink/node-multi-hashing.git#damo"
     },
     "engines": {
         "node": ">=8.1.4"
